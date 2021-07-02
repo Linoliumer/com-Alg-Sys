@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Creators</class>
+ <widget class="QWidget" name="Creators">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>813</width>
+    <height>401</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="backCreators">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Times New Roman</family>
+     <pointsize>12</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Back</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>50</y>
+     <width>771</width>
+     <height>321</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Times New Roman</family>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>12</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Имя и Фамилия</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Группа</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>И. Васильев</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>С. Соколов</string>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>А. Кононов</string>
+    </property>
+   </item>
+   <item row="2" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="3" column="0">
+    <property name="text">
+     <string>К. Керман</string>
+    </property>
+   </item>
+   <item row="3" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="4" column="0">
+    <property name="text">
+     <string>Э. Дьяконов</string>
+    </property>
+   </item>
+   <item row="4" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="5" column="0">
+    <property name="text">
+     <string>Д. Лукиничев</string>
+    </property>
+   </item>
+   <item row="5" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="6" column="0">
+    <property name="text">
+     <string>И. Кирсанов</string>
+    </property>
+   </item>
+   <item row="6" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="7" column="0">
+    <property name="text">
+     <string>А. Горшенин</string>
+    </property>
+   </item>
+   <item row="7" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="8" column="0">
+    <property name="text">
+     <string>С. Краснов</string>
+    </property>
+   </item>
+   <item row="8" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="9" column="0">
+    <property name="text">
+     <string>Н. Фролкова</string>
+    </property>
+   </item>
+   <item row="9" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="10" column="0">
+    <property name="text">
+     <string>Ш. Турсунов</string>
+    </property>
+   </item>
+   <item row="10" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+   <item row="11" column="0">
+    <property name="text">
+     <string>П. Кузнецов</string>
+    </property>
+   </item>
+   <item row="11" column="1">
+    <property name="text">
+     <string>0310</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
