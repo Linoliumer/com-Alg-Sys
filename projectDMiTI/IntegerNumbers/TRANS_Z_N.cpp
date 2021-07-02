@@ -9,4 +9,3 @@ NaturalNumber TRANS_Z_N(numberZ& number) {
 	temp.olderCoef = number.olderCoef;
 	return temp;
 }
-/* Created by Shokhruz Tursunov */

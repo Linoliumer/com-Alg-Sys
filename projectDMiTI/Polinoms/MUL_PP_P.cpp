@@ -15,4 +15,4 @@ polinom MUL_PP_P(polinom P1,polinom P2){
     correct(result);
     return result;
 }
-/*Created by Gorshenin Aleksandr*/
+

@@ -19,4 +19,4 @@ numberR TRANS_Z_Q(numberZ& number)
 		return result;
 	}
 }
-/*Created by Dyakonov Erik*/
+

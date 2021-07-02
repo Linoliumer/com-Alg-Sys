@@ -7,4 +7,4 @@
 
 NaturalNumber LCM_NN_N(NaturalNumber& num1, NaturalNumber& num2);
 
-/*Created by Alexander Kononov*/
+

@@ -7,5 +7,3 @@
 
 NaturalNumber DIV_NN_Dk(NaturalNumber& numbr1, NaturalNumber& numbr2);
 
-/*Create Kirsanov Ivan*/
-/*helped Alexander Kononov*/

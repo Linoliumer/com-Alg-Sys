@@ -33,4 +33,3 @@ numberR FAC_P_Q(polinom pol1)
     return resu;
 }
 
-/*Created by Kononov Alexandr*/

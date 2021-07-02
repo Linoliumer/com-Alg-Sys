@@ -38,4 +38,4 @@ NaturalNumber MUL_NN_N(NaturalNumber& number1, NaturalNumber& number2) {
 		return result;
 	}
 }
-/* Created by Daniil Lukinichev */
+

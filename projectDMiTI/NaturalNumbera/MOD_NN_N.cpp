@@ -29,4 +29,4 @@ NaturalNumber MOD_NN_N(NaturalNumber& number1, NaturalNumber &number2) {
 		return result;
 	}
 }
-/* Created by Vasilev Ilya */
+

@@ -16,4 +16,4 @@ NaturalNumber SUB_NDN_N(NaturalNumber &number1, NaturalNumber &number2, int digi
         return result;
     }
 }
-/* Created by Yulia Komarova */
+

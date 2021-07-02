@@ -77,4 +77,4 @@ numberZ SUB_ZZ_Z(numberZ& number1, numberZ& number2) {
 	}
 	
 }
-/* Created by Vasilev Ilya */
+

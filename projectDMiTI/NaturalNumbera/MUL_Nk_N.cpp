@@ -23,4 +23,3 @@ NaturalNumber MUL_Nk_N(NaturalNumber& number, int degree){
 		return tempStruct;
 	}
 }
-/* Created by Daniil Lukinichev */

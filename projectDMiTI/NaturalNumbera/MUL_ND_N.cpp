@@ -32,4 +32,4 @@ NaturalNumber MUL_ND_N(NaturalNumber& n, int& digit)
 	}
 	return result;
 }
-/* Created by Dmitry Prolygin */
+

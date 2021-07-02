@@ -23,4 +23,3 @@ polinom DER_P_P(polinom pol)
     return result;
 }
 
-/*Created by Eric Dyakonov*/

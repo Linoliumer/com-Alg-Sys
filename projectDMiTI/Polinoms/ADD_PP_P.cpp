@@ -38,6 +38,4 @@ polinom ADD_PP_P(polinom pol1, polinom pol2)
     correct(resu);
     return resu;
 }
-/*Create Pavel Kuznetsov
-* helped Kononov Alexandr
-*/
+

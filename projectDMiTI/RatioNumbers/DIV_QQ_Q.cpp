@@ -14,4 +14,4 @@ numberR DIV_QQ_Q(numberR R1, numberR R2) {
 
 	return res;
 }
-//created by Gorshenin Aleksandr
+

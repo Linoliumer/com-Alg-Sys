@@ -1,7 +1,6 @@
 #include "GCF_NN_N.h"
 #include <iostream>
-/*	GCD of natural numbers
-	Completed by Konstantin Kerman */
+/*	GCD of natural numbers */
 
 NaturalNumber GCF_NN_N(NaturalNumber num1, NaturalNumber num2) {
 	NaturalNumber result;

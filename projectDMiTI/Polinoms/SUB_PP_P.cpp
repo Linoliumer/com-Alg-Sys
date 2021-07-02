@@ -42,4 +42,4 @@ polinom SUB_PP_P(polinom first, polinom second)
     correct(result);
     return result;
 }
-/* Created by Shohruz Tursunov */
+

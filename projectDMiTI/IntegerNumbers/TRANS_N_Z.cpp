@@ -10,4 +10,4 @@ numberZ TRANS_N_Z(NaturalNumber& number) {
 	temp.sign = 0;
 	return temp;
 }
-/* Created by Eric Dyakonov */
+

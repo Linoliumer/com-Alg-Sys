@@ -9,4 +9,3 @@ bool INT_Q_B(numberR& number1){
 	else
 		return false;
 }
-/* Created by Shohruz Tursunov */

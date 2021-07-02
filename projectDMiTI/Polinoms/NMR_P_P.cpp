@@ -9,4 +9,4 @@ numberR NMR_P_P(polinom P){
     res = RED_Q_Q(res);
     return res;
 }
-/*Created by Gorshenin Aleksandr*/
+

@@ -18,4 +18,3 @@ numberZ MUL_ZM_Z(numberZ& number) {
 	}
 	return mynumber;
 }
-/*Created by Alexander Kononov*/

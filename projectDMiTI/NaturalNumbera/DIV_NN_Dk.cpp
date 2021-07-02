@@ -2,8 +2,6 @@
 #include <vector>
 #include "DIV_NN_Dk.h"
 #include "NZER_N_B.h"
-/*Create Kirsanov Ivan*/
-/*helped Alexander Kononov*/
 
 /* Calculation of the first digit of dividing a larger natural 
 by a smaller one, multiplied by 10 ^ k, where k is the position 

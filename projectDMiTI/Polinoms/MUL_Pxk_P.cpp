@@ -15,4 +15,3 @@ polinom MUL_Pxk_P(polinom pol1, long long int degree)
     return pol1;
 }
 
-/*Created by Kononov Alexandr*/

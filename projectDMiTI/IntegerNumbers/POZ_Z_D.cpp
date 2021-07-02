@@ -11,4 +11,4 @@ int POZ_Z_D(numberZ& number){
         else return 2;
     }
 }
-/* Creasted by Anastasia Frolkova */
+

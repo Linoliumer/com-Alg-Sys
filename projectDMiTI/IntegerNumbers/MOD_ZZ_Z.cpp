@@ -42,5 +42,5 @@ numberZ MOD_ZZ_Z(numberZ& z1, numberZ& z2) {
     //else
     return result;
 
-    /* Created by Daniil Lukinichev */
+    
 }

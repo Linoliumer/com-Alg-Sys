@@ -48,4 +48,4 @@ NaturalNumber ADD_NN_N(NaturalNumber& numberF, NaturalNumber& numberS) {
 	}
 
 }
-/* Created by Gorshenin Aleksandr */
+

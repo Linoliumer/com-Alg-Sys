@@ -11,4 +11,3 @@ bool NZER_N_B(NaturalNumber &number) {
 	/* Otherwise return true */
 	return true;
 }
-/* Created by Konstantin Kerman */

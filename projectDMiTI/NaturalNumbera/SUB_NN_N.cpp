@@ -67,4 +67,4 @@ NaturalNumber SUB_NN_N(NaturalNumber &num1, NaturalNumber &num2) {
 		return result;
 	}
 }
-/* Completed by Konstantin Kerman */
+

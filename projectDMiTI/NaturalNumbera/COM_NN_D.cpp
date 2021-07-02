@@ -21,4 +21,3 @@ int COM_NN_D(NaturalNumber& number1, NaturalNumber& number2) {
 	}
 	//Comparison
 }
-/* Completed by Sergej Sokolov*/

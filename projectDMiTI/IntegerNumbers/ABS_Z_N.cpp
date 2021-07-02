@@ -8,4 +8,4 @@ NaturalNumber ABS_Z_N(numberZ& number){
 	temp.arrayNum = number.arrayNum;
 	return temp;
 }
-/* Created by Krasnov Semyon */
+

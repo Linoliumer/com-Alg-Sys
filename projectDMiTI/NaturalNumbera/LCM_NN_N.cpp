@@ -14,4 +14,4 @@ NaturalNumber LCM_NN_N(NaturalNumber& num1, NaturalNumber& num2) {
 		return res;
 	}
 }
-/*Created by Alexander Kononov*/
+

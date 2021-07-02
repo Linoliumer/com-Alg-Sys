@@ -27,4 +27,4 @@ numberZ MUL_ZZ_Z(numberZ& number1, numberZ& number2) {
         else return result;
     }
 }
-/* Created by Daniil Lukinichev */
+

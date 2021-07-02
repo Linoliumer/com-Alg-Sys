@@ -9,4 +9,4 @@
 #include "RatioNumbers/generalRatioNumber.h"
 
 polinom MUL_Pxk_P(polinom pol1, long long int degree);
-/*Created by Kononov Alexandr*/
+

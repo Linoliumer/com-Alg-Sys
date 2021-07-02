@@ -13,4 +13,4 @@ polinom MUL_PQ_P(polinom P, numberR R){
     }
     return res;
 }
-/*Created by Gorshenin Aleksandr*/
+
